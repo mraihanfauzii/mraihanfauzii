@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Fitnessist](https://github.com/Fitnessist)
 
-- 🌱 I’m currently learning **Android and Flutter**
+- 🌱 I’m currently learning **Android(Kotlin) and React Native**
 
-- 💬 Ask me about **Android and Flutter**
+- 💬 Ask me about **Android(Kotlin) and React Native**
 
 - 📫 How to reach me **muhammad.raihan.fauzi@gmail.com**
 
